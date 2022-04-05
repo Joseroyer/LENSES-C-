@@ -1,5 +1,5 @@
 #Trabalho Ciência de Dados - LENSES(C++)
-Lenses (Lentes)
+-Lenses (Lentes)
 
 Nosso conjunto de dados sobre Lentes de Contato tem o objetivo de auxiliar o paciente sobre qual lente é adequada para seu devido problema. As informações do conjunto de dados consistem em 24 instâncias no caso as possíveis soluções, também possui 4 atributos e 3 classes. As classes são as folhas das árvores, na qual, indica se o paciente deve usar lente de contato rígida ou gelatinosa ou não deve usar lente. Já os atributos são os ramos onde são rotulados com valores (atributos categóricos) ou (atributos numéricos) esses atributos são perguntas que esses ramos levem para as folhas, deste modo chegam nas classes e assim o paciente saberá se vai utilizar lentes.
 
